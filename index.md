@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
     <head>
         <title>Ayomide's personal website</title>
     </head>
@@ -88,4 +87,4 @@
                <!--<a href></a> is used for adding links to an html code-->
 <h4><a href="contact.html">AWHANA's CONTACT DETAILS</a></h4>
     </body>
-</html>  
+  
